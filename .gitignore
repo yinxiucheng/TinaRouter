@@ -9,3 +9,5 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/java/tina/com/router/utils/
