@@ -3,11 +3,10 @@ manifest
 ADDED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:2:1-11:12
-MERGED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:base] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:router-core] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/router-core/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/4f130bcf4b57610e9b336a680a5752b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/00717f9bba55693366269ea699c98d44/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/0f420936352ff88caddd992dc213b9e7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/607ec96f8abf5826052909e5e11029e1/AndroidManifest.xml:17:1-22:12
@@ -33,10 +32,6 @@ application
 ADDED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:9:5-20
-MERGED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
-MERGED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
-MERGED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
-MERGED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff2eb8d335de58c5531866b507fcdc77/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff2eb8d335de58c5531866b507fcdc77/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
@@ -69,16 +64,14 @@ uses-sdk
 INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:5:5-7:41
-MERGED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:base] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:base] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:router-core] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/router-core/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:router-core] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/router-core/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/4f130bcf4b57610e9b336a680a5752b0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/4f130bcf4b57610e9b336a680a5752b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/07455dbe1e461558f73fa7deb04ae17d/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/00717f9bba55693366269ea699c98d44/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/00717f9bba55693366269ea699c98d44/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/0f420936352ff88caddd992dc213b9e7/AndroidManifest.xml:20:5-44
@@ -103,14 +96,6 @@ INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/
 		INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml
 		ADDED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/src/main/AndroidManifest.xml
-activity#tina.com.module1.Module1Activity
-ADDED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-69
-	android:name
-		ADDED from [:module1] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module1/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-66
-activity#tina.com.module2.Module2Activity
-ADDED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-69
-	android:name
-		ADDED from [:module2] /Users/xiuchengyin/Documents/sourceGithup/TinaRouter/module2/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-66
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/xiuchengyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff2eb8d335de58c5531866b507fcdc77/AndroidManifest.xml:25:9-27:47
 	android:value

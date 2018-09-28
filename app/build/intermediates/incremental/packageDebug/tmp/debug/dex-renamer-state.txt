@@ -1,4 +1,4 @@
-#Fri Sep 28 09:51:27 CST 2018
+#Fri Sep 28 19:25:48 CST 2018
 base.0=/Users/xiuchengyin/Documents/sourceGithup/TinaRouter/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -23,8 +23,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="tina.com.module1.Module1Activity" />
-        <activity android:name="tina.com.module2.Module2Activity" />
 
         <meta-data
             android:name="android.arch.lifecycle.VERSION"
