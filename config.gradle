@@ -1,0 +1,22 @@
+
+ext {
+    // false: 组件模式
+    // true ：集成模式
+    isModule = false
+    android = [
+            compileSdkVersion: 27,
+            minSdkVersion    : 16,
+            targetSdkVersion : 27,
+            versionCode      : 1,
+            versionName      : "1.0"
+    ]
+
+    appId = ["app"  : "com.tina.router",
+             "module1": "com.tina.module1",
+             "module2" : "com.tina.module2" ]
+
+    supportLibrary = "26.1.0"
+    dependencies = [
+            "appcompat-v7"     : "com.android.support:appcompat-v7:${supportLibrary}",
+    ]
+}
